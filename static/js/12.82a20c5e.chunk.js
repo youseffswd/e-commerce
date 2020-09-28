@@ -1,2 +1,0 @@
-(this["webpackJsonpe-commerce"]=this["webpackJsonpe-commerce"]||[]).push([[12],{75:function(e,c,n){"use strict";n.r(c);var t=n(1),o=n.n(t);c.default=function(){return o.a.createElement("div",null,"hello Blog")}}}]);
-//# sourceMappingURL=12.82a20c5e.chunk.js.map

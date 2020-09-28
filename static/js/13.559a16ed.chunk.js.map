@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/pages/Error.js"],"names":["Error"],"mappings":"kGAAA,2BAOeA,UAJD,WACV,OAAO","file":"static/js/13.559a16ed.chunk.js","sourcesContent":["import React from \"react\"\n\n\nconst Error = () => {\n    return <div>404 page not found</div>\n}\n\nexport default Error"],"sourceRoot":""}
